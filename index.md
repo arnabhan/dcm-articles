@@ -2,7 +2,7 @@
 Data, Code, and Models is a collection of articles on data science, software engineering, and mathematics.
 ## Agenda:
 ## 1 - Software Design, Mechanical Design, and Bikes!
-# By Ahmed Ragab Nabhan, PhD
+### By Ahmed Ragab Nabhan, PhD
 It is safe to say that if you are a software designer or a developer, then you are familiar with a well known design principle in software design that is called the [Law of Demeter (LoD)](https://en.wikipedia.org/wiki/Law_of_Demeter), or The Principle of Least Knowledge. As a software developer, occasionnaly you encounter violations of this principle when dealing with existing code bases either in work environment or in open source code bases. For example, a function code can be cluttered with a long chain of other function calls to get a value calculated based on some parameters. In another scenario, a function can make calls spanning multiple modules, vertically. This violates at least one principle of good software desgin, that is of least knowledge. A good example of this chaining practice can be found [in this interesting article](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85).
 
 ## Coding and Biking
