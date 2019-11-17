@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 comments:
-      provider: "facebook"
-facebook:
+    facebook:
       appid : 
       num_posts : 10
       colorscheme: "light"
